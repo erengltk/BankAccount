@@ -139,7 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="account-modifier.cpp" />
     <ClCompile Include="BankAccount.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="account-modifier.h" />
+    <ClInclude Include="account.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
