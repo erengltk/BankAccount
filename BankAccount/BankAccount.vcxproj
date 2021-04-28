@@ -141,7 +141,7 @@
   <ItemGroup>
     <ClCompile Include="account-executer.cpp" />
     <ClCompile Include="account-modifier.cpp" />
-    <ClCompile Include="BankAccount.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="account-executer.h" />
