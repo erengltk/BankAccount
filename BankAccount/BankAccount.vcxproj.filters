@@ -29,5 +29,8 @@
     <ClInclude Include="account-modifier.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="account-executer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

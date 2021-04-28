@@ -143,6 +143,7 @@
     <ClCompile Include="BankAccount.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="account-executer.h" />
     <ClInclude Include="account-modifier.h" />
     <ClInclude Include="account.h" />
   </ItemGroup>
