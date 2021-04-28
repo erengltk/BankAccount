@@ -21,6 +21,9 @@
     <ClCompile Include="account-modifier.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="account-executer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="account.h">
